@@ -14,7 +14,7 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Rios Learn IT # the main title
+title: Rios Learns IT # the main title
 
 tagline: Follow Along as I Grow my IT Skill Set # it will display as the sub-title
 
@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://riosit.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: riosit # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: riosdoesit # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   email: rios-it@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    - https://x.com/riosdoesit # change to your twitter homepage
     - https://github.com/Riosit # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
