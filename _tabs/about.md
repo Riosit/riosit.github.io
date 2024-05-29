@@ -13,8 +13,8 @@ Git
 
 Completed Learning:
 
-Google IT Professional Certificate [Coursera](https://coursera.com)
+Google IT Professional Certificate [Coursera](https://coursera.org)
 
-Google Project Management Certificate [Coursera](https://coursera.com)
+Google Project Management Certificate [Coursera](https://coursera.org)
 
 Certified in Cyber Security ISC2
