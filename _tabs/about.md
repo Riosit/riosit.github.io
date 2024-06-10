@@ -8,9 +8,11 @@ Hello and welcome to my corner of the internet.
 
 Follow along as I learn about the fundementals as well as advanced topics in technology
 
-Current Learning: 
-Git
-Azure - 900 Azure Fundementals
+>Current Learning: 
+>
+>Git
+>Azure - 900 Azure Fundementals
+>{.is-info}
 
 Completed Learning:
 
