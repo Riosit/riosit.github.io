@@ -10,6 +10,7 @@ Follow along as I learn about the fundementals as well as advanced topics in tec
 
 Current Learning: 
 Git
+Azure - 900 Azure Fundementals
 
 Completed Learning:
 
